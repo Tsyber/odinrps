@@ -1,0 +1,15 @@
+body {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#selections {
+    margin: 100px;
+}
+
+button {
+    margin: 24px;
+    padding: 24px 36px;
+}
